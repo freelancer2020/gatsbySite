@@ -1,0 +1,17 @@
+header {
+  width: 100vw;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: royalblue;
+}
+
+h3 {
+  color: #ffffff;
+  font-weight: bold;
+  user-select: none;
+}
