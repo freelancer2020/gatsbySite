@@ -2,7 +2,9 @@ import React from "react";
 
 import Header from "../components/Header";
 
-import './main.css'
+import { StaticImage } from "gatsby-plugin-image";
+
+import "./main.css";
 
 const Front = () => {
   return (
@@ -11,7 +13,5 @@ const Front = () => {
     </div>
   );
 };
-
-
 
 export default Front;
